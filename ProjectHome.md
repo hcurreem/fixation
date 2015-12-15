@@ -1,0 +1,1 @@
+FIXation is a discrete event simulator for the [FIX protocol](http://www.fixprotocol.org/). FIX (Financial Information eXchange) is a public-domain messaging standard developed for real-time electronic exchange of securities transactions.
